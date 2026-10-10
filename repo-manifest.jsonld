@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/encode/rest-framework-tutorial/commit/c338449d616f613fdcbfa4ea368cdf163a0f183d",
       "git:hexsha": "c338449d616f613fdcbfa4ea368cdf163a0f183d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
