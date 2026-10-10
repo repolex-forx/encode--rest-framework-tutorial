@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "rest-framework-tutorial",
+  "versions": [
+    {
+      "commit": "c338449d616f613fdcbfa4ea368cdf163a0f183d",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:15:11.071070+00:00"
+    }
+  ]
+}
